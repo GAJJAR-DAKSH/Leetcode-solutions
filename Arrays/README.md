@@ -5,11 +5,17 @@ solved using optimized and interview-friendly approaches.
 
 ---
 
-## ✅ Solved Problems
+# 📦 Arrays – LeetCode Problems
 
 | # | Problem Name | Difficulty |
 |---|-------------|------------|
+| 26 | Remove Duplicates from Sorted Array | Easy |
 | 1752 | Check if Array Is Sorted and Rotated | Easy |
+| 189 | Rotate Array | Medium |
+| 283 | Move Zeroes | Easy |
+| 485 | Max Consecutive Ones | Easy |
+| 268 | Missing Number | Easy |
+
 
 ---
 
