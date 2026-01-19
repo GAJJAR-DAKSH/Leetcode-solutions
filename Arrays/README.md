@@ -15,6 +15,7 @@ solved using optimized and interview-friendly approaches.
 | 283 | Move Zeroes | Easy |
 | 485 | Max Consecutive Ones | Easy |
 | 268 | Missing Number | Easy |
+| 136 | Single Number | Easy |
 
 
 ---
