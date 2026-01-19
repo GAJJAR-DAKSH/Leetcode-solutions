@@ -22,6 +22,8 @@ The goal of this repository is to:
 | 5 | 283 | Move Zeroes | Arrays | Easy |
 | 6 | 485 | Max Consecutive Ones | Arrays | Easy |
 | 7 | 268 | Missing Number | Arrays / Math | Easy |
+| 8 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
+
 
 *(This table will be updated as more problems are solved.)*
 
