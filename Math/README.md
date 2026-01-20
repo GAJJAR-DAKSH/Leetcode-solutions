@@ -10,6 +10,8 @@ efficient and optimized approaches.
 | # | Problem Name | Difficulty |
 |---|-------------|------------|
 | 7 | Reverse Integer | Medium |
+| 9 | Palindrome Number | Easy |
+
 
 ---
 
