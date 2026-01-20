@@ -9,8 +9,6 @@ The goal of this repository is to:
 
 ---
 
-**Total Problems Solved:** `7` ✅
-
 ### ✅ Solved LeetCode Problems
 
 | No. | LeetCode # | Problem Name | Topic | Difficulty |
@@ -23,6 +21,8 @@ The goal of this repository is to:
 | 6 | 485 | Max Consecutive Ones | Arrays | Easy |
 | 7 | 268 | Missing Number | Arrays / Math | Easy |
 | 8 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
+| 9 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
+| 10 | 9 | Palindrome Number | Math | Easy |
 
 
 *(This table will be updated as more problems are solved.)*
