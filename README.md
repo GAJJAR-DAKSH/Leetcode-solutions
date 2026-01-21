@@ -23,7 +23,9 @@ The goal of this repository is to:
 | 8 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
 | 9 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
 | 10 | 9 | Palindrome Number | Math | Easy |
-| 11 | 3314 | Minimum Bitwise Array | Arrays / Bit Manipulation | Medium |
+| 11 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
+| 12 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
+
 
 
 
