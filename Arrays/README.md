@@ -16,7 +16,9 @@ solved using optimized and interview-friendly approaches.
 | 485 | Max Consecutive Ones | Easy |
 | 268 | Missing Number | Easy |
 | 136 | Single Number | Easy |
-| 3314 | Minimum Bitwise Array | Medium |
+| 3314 | Minimum Bitwise Array 1 | Medium |
+| 3315 | Minimum Bitwise Array 2 | Medium |
+
 
 
 
