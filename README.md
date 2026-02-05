@@ -26,6 +26,8 @@ The goal of this repository is to:
 | 11 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
 | 12 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
 | 13 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
+| 14 | 704 | Binary Search | Arrays / Binary Search | Easy |
+
 
 
 
