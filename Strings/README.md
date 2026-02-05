@@ -11,6 +11,8 @@ solved using optimized and interview-friendly approaches.
 |---|-------------|------------|
 | 3798 | Largest Even String | Easy |
 | 3799 | Word Squares | Medium |
+| 125 | Valid Palindrome | Easy |
+
 
 ---
 
