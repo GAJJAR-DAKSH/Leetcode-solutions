@@ -22,6 +22,8 @@ solved using optimized and interview-friendly approaches.
 | 704 | Binary Search | Easy |
 | 1 | Two Sum | Easy |
 | 169 | Majority Element | Easy |
+| 35 | Search Insert Position | Easy |
+
 
 
 
