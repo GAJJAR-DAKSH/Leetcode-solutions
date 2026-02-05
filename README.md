@@ -17,29 +17,21 @@ The goal of this repository is to:
 | 2 | 7 | Reverse Integer | Math | Medium |
 | 3 | 9 | Palindrome Number | Math | Easy |
 | 4 | 26 | Remove Duplicates from Sorted Array | Arrays | Easy |
-| 5 | 169 | Majority Element | Arrays / Voting Algorithm | Easy |
-| 6 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy |
-| 7 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
-| 8 | 189 | Rotate Array | Arrays | Medium |
-| 9 | 268 | Missing Number | Arrays / Math | Easy |
-| 10 | 283 | Move Zeroes | Arrays | Easy |
-| 11 | 485 | Max Consecutive Ones | Arrays | Easy |
-| 12 | 704 | Binary Search | Arrays / Binary Search | Easy |
-| 13 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
-| 14 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
-| 15 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
-| 16 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
-| 17 | 3798 | Largest Even String | Strings / Greedy | Easy |
-| 18 | 3799 | Word Squares | Strings / Backtracking | Medium |
-
-
-
-
-
-
-
-
-
+| 5 | 125 | Valid Palindrome | Strings / Two Pointers | Easy |
+| 6 | 169 | Majority Element | Arrays / Voting Algorithm | Easy |
+| 7 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy |
+| 8 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
+| 9 | 189 | Rotate Array | Arrays | Medium |
+| 10 | 268 | Missing Number | Arrays / Math | Easy |
+| 11 | 283 | Move Zeroes | Arrays | Easy |
+| 12 | 485 | Max Consecutive Ones | Arrays | Easy |
+| 13 | 704 | Binary Search | Arrays / Binary Search | Easy |
+| 14 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
+| 15 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
+| 16 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
+| 17 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
+| 18 | 3798 | Largest Even String | Strings / Greedy | Easy |
+| 19 | 3799 | Word Squares | Strings / Backtracking | Medium |
 
 
 *(This table will be updated as more problems are solved.)*
