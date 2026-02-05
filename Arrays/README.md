@@ -23,6 +23,8 @@ solved using optimized and interview-friendly approaches.
 | 1 | Two Sum | Easy |
 | 169 | Majority Element | Easy |
 | 35 | Search Insert Position | Easy |
+| 2965 | Find Missing and Repeated Values | Easy |
+
 
 
 
