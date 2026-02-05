@@ -21,6 +21,8 @@ solved using optimized and interview-friendly approaches.
 | 1838 | Frequency of the Most Frequent Element | Medium |
 | 704 | Binary Search | Easy |
 | 1 | Two Sum | Easy |
+| 169 | Majority Element | Easy |
+
 
 
 
