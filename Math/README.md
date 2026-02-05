@@ -11,6 +11,8 @@ efficient and optimized approaches.
 |---|-------------|------------|
 | 7 | Reverse Integer | Medium |
 | 9 | Palindrome Number | Easy |
+| 50 | Pow(x, n) | Medium |
+
 
 
 ---
