@@ -20,6 +20,8 @@ solved using optimized and interview-friendly approaches.
 | 3315 | Minimum Bitwise Array 2 | Medium |
 | 1838 | Frequency of the Most Frequent Element | Medium |
 | 704 | Binary Search | Easy |
+| 1 | Two Sum | Easy |
+
 
 
 
