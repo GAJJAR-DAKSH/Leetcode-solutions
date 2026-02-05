@@ -25,6 +25,8 @@ The goal of this repository is to:
 | 10 | 9 | Palindrome Number | Math | Easy |
 | 11 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
 | 12 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
+| 13 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
+
 
 
 
