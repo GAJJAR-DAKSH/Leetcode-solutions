@@ -18,6 +18,8 @@ solved using optimized and interview-friendly approaches.
 | 136 | Single Number | Easy |
 | 3314 | Minimum Bitwise Array 1 | Medium |
 | 3315 | Minimum Bitwise Array 2 | Medium |
+| 1838 | Frequency of the Most Frequent Element | Medium |
+
 
 
 
