@@ -17,21 +17,23 @@ The goal of this repository is to:
 | 2 | 7 | Reverse Integer | Math | Medium |
 | 3 | 9 | Palindrome Number | Math | Easy |
 | 4 | 26 | Remove Duplicates from Sorted Array | Arrays | Easy |
-| 5 | 125 | Valid Palindrome | Strings / Two Pointers | Easy |
-| 6 | 169 | Majority Element | Arrays / Voting Algorithm | Easy |
-| 7 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy |
-| 8 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
-| 9 | 189 | Rotate Array | Arrays | Medium |
-| 10 | 268 | Missing Number | Arrays / Math | Easy |
-| 11 | 283 | Move Zeroes | Arrays | Easy |
-| 12 | 485 | Max Consecutive Ones | Arrays | Easy |
-| 13 | 704 | Binary Search | Arrays / Binary Search | Easy |
-| 14 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
-| 15 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
-| 16 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
-| 17 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
-| 18 | 3798 | Largest Even String | Strings / Greedy | Easy |
-| 19 | 3799 | Word Squares | Strings / Backtracking | Medium |
+| 5 | 35 | Search Insert Position | Arrays / Binary Search | Easy |
+| 6 | 125 | Valid Palindrome | Strings / Two Pointers | Easy |
+| 7 | 169 | Majority Element | Arrays / Voting Algorithm | Easy |
+| 8 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy |
+| 9 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
+| 10 | 189 | Rotate Array | Arrays | Medium |
+| 11 | 268 | Missing Number | Arrays / Math | Easy |
+| 12 | 283 | Move Zeroes | Arrays | Easy |
+| 13 | 485 | Max Consecutive Ones | Arrays | Easy |
+| 14 | 704 | Binary Search | Arrays / Binary Search | Easy |
+| 15 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
+| 16 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
+| 17 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
+| 18 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
+| 19 | 3798 | Largest Even String | Strings / Greedy | Easy |
+| 20 | 3799 | Word Squares | Strings / Backtracking | Medium |
+
 
 
 *(This table will be updated as more problems are solved.)*
