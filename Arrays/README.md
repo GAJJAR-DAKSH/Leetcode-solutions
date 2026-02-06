@@ -25,14 +25,7 @@ solved using optimized and interview-friendly approaches.
 | 35 | Search Insert Position | Easy |
 | 2965 | Find Missing and Repeated Values | Easy |
 | 3379 | Construct Transformed Array | Easy |
-
-
-
-
-
-
-
-
+| 3634 | Minimum Removals to Make Array K-Multiple Compatible | Medium |
 
 
 
