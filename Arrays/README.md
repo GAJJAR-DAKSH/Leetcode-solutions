@@ -26,6 +26,8 @@ solved using optimized and interview-friendly approaches.
 | 2965 | Find Missing and Repeated Values | Easy |
 | 3379 | Construct Transformed Array | Easy |
 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Medium |
+| 3637 | Trionic Array | Easy |
+
 
 
 
