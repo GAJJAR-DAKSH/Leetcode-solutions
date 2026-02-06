@@ -31,11 +31,15 @@ The goal of this repository is to:
 | 16 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
 | 17 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
 | 18 | 2965 | Find Missing and Repeated Values | Arrays / Counting | Easy |
-| 19 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
-| 20 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
-| 21 | 3379 | Construct Transformed Array | Arrays / Simulation | Easy |
-| 22 | 3798 | Largest Even String | Strings / Greedy | Easy |
-| 23 | 3799 | Word Squares | Strings / Backtracking | Medium |
+| 19 | 3010 | Minimum Cost to Make Array Equal | Arrays / Greedy | Easy |
+| 20 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
+| 21 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
+| 22 | 3379 | Construct Transformed Array | Arrays / Simulation | Easy |
+| 23 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Arrays / Sliding Window | Medium |
+| 24 | 3637 | Trionic Array | Arrays / Pattern Traversal | Easy |
+| 25 | 3798 | Largest Even String | Strings / Greedy | Easy |
+| 26 | 3799 | Word Squares | Strings / Backtracking | Medium |
+
 
 
 
