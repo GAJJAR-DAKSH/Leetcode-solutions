@@ -30,6 +30,8 @@ solved using optimized and interview-friendly approaches.
 | 3010 | Minimum Cost to Make Array Equal | Easy |
 | 53 | Maximum Subarray | Medium |
 | 121 | Best Time to Buy and Sell Stock | Easy |
+| 2149 | Rearrange Array Elements by Sign | Medium |
+
 
 
 
