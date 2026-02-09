@@ -16,29 +16,53 @@ The goal of this repository is to:
 | 1 | 1 | Two Sum | Arrays / Hashing | Easy |
 | 2 | 7 | Reverse Integer | Math | Medium |
 | 3 | 9 | Palindrome Number | Math | Easy |
-| 4 | 26 | Remove Duplicates from Sorted Array | Arrays | Easy |
-| 5 | 35 | Search Insert Position | Arrays / Binary Search | Easy |
-| 6 | 50 | Pow(x, n) | Math / Binary Exponentiation | Medium |
-| 7 | 125 | Valid Palindrome | Strings / Two Pointers | Easy |
-| 8 | 169 | Majority Element | Arrays / Voting Algorithm | Easy |
-| 9 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy |
-| 10 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
-| 11 | 189 | Rotate Array | Arrays | Medium |
-| 12 | 268 | Missing Number | Arrays / Math | Easy |
-| 13 | 283 | Move Zeroes | Arrays | Easy |
-| 14 | 485 | Max Consecutive Ones | Arrays | Easy |
-| 15 | 704 | Binary Search | Arrays / Binary Search | Easy |
-| 16 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
-| 17 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
-| 18 | 2965 | Find Missing and Repeated Values | Arrays / Counting | Easy |
-| 19 | 3010 | Minimum Cost to Make Array Equal | Arrays / Greedy | Easy |
-| 20 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
-| 21 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
-| 22 | 3379 | Construct Transformed Array | Arrays / Simulation | Easy |
-| 23 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Arrays / Sliding Window | Medium |
-| 24 | 3637 | Trionic Array | Arrays / Pattern Traversal | Easy |
-| 25 | 3798 | Largest Even String | Strings / Greedy | Easy |
-| 26 | 3799 | Word Squares | Strings / Backtracking | Medium |
+| 4 | 11 | Container With Most Water | Arrays / Two Pointers | Medium |
+| 5 | 15 | 3Sum | Arrays / Hashing | Medium |
+| 6 | 18 | 4Sum | Arrays / Two Pointers | Medium |
+| 7 | 26 | Remove Duplicates from Sorted Array | Arrays | Easy |
+| 8 | 31 | Next Permutation | Arrays / Two Pointers | Medium |
+| 9 | 35 | Search Insert Position | Arrays / Binary Search | Easy |
+| 10 | 48 | Rotate Image | Arrays / Matrix | Medium |
+| 11 | 50 | Pow(x, n) | Math / Binary Exponentiation | Medium |
+| 12 | 53 | Maximum Subarray | Arrays / Dynamic Programming | Medium |
+| 13 | 54 | Spiral Matrix | Arrays / Matrix Traversal | Medium |
+| 14 | 73 | Set Matrix Zeroes | Arrays / Matrix | Medium |
+| 15 | 74 | Search a 2D Matrix | Arrays / Binary Search | Medium |
+| 16 | 75 | Sort Colors | Arrays / Two Pointers | Medium |
+| 17 | 88 | Merge Sorted Array | Arrays / Two Pointers | Easy |
+| 18 | 110 | Balanced Binary Tree | Trees / DFS | Easy |
+| 19 | 118 | Pascal's Triangle | Arrays / Dynamic Programming | Easy |
+| 20 | 121 | Best Time to Buy and Sell Stock | Arrays / Greedy | Easy |
+| 21 | 125 | Valid Palindrome | Strings / Two Pointers | Easy |
+| 22 | 128 | Longest Consecutive Sequence | Arrays / Sorting | Medium |
+| 23 | 169 | Majority Element | Arrays / Voting Algorithm | Easy |
+| 24 | 229 | Majority Element II | Arrays / Sorting | Medium |
+| 25 | 1653 | Minimum Deletions to Make String Balanced | Strings / Greedy | Medium |
+| 26 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy |
+| 27 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
+| 28 | 189 | Rotate Array | Arrays | Medium |
+| 29 | 268 | Missing Number | Arrays / Math | Easy |
+| 30 | 283 | Move Zeroes | Arrays | Easy |
+| 31 | 485 | Max Consecutive Ones | Arrays | Easy |
+| 32 | 560 | Subarray Sum Equals K | Arrays / Prefix Sum | Medium |
+| 33 | 704 | Binary Search | Arrays / Binary Search | Easy |
+| 34 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
+| 35 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
+| 36 | 2149 | Rearrange Array Elements by Sign | Arrays / Simulation | Medium |
+| 37 | 2965 | Find Missing and Repeated Values | Arrays / Counting | Easy |
+| 38 | 3010 | Minimum Cost to Make Array Equal | Arrays / Greedy | Easy |
+| 39 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
+| 40 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
+| 41 | 3379 | Construct Transformed Array | Arrays / Simulation | Easy |
+| 42 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Arrays / Sliding Window | Medium |
+| 43 | 3637 | Trionic Array | Arrays / Pattern Traversal | Easy |
+| 44 | 3798 | Largest Even String | Strings / Greedy | Easy |
+| 45 | 3799 | Word Squares | Strings / Backtracking | Medium |
+| 46 | 3833 | Dominant Indices | Arrays / Brute Force | Medium |
+| 47 | 3834 | Merge Adjacent Elements | Arrays / Stack Simulation | Medium |
+| 48 | 3835 | Count Subarrays With Cost ≤ K | Arrays / Sliding Window | Hard |
+| 49 | 1382 | Balance a Binary Search Tree | Trees / BST | Medium |
+
 
 
 
