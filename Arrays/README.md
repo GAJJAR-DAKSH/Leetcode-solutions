@@ -28,6 +28,8 @@ solved using optimized and interview-friendly approaches.
 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Medium |
 | 3637 | Trionic Array | Easy |
 | 3010 | Minimum Cost to Make Array Equal | Easy |
+| 53 | Maximum Subarray | Medium |
+
 
 
 
