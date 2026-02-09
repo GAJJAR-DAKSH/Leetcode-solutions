@@ -31,6 +31,8 @@ solved using optimized and interview-friendly approaches.
 | 53 | Maximum Subarray | Medium |
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 2149 | Rearrange Array Elements by Sign | Medium |
+| 1653 | Minimum Deletions to Make String Balanced | Medium |
+
 
 
 
