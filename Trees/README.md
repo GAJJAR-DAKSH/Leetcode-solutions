@@ -9,7 +9,9 @@ optimized and interview-friendly approaches such as **DFS** and **BFS**.
 
 | LeetCode # | Problem Name | Difficulty |
 |-----------|-------------|------------|
+| 110 | Balanced Binary Tree | Easy |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium |
+| 1382 | Balance a Binary Search Tree | Medium |
 
 ---
 
