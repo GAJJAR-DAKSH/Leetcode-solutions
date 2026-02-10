@@ -45,9 +45,11 @@ solved using optimized and interview-friendly approaches.
 | 3379 | Construct Transformed Array | Easy |
 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Medium |
 | 3637 | Trionic Array | Easy |
+| 3719 | Longest Balanced Subarray | Medium |
 | 3833 | Dominant Indices | Medium |
 | 3834 | Merge Adjacent Elements | Medium |
 | 3835 | Count Subarrays With Cost ≤ K | Hard |
+
 
 
 
