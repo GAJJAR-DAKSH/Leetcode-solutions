@@ -56,12 +56,14 @@ The goal of this repository is to:
 | 41 | 3379 | Construct Transformed Array | Arrays / Simulation | Easy |
 | 42 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Arrays / Sliding Window | Medium |
 | 43 | 3637 | Trionic Array | Arrays / Pattern Traversal | Easy |
-| 44 | 3798 | Largest Even String | Strings / Greedy | Easy |
-| 45 | 3799 | Word Squares | Strings / Backtracking | Medium |
-| 46 | 3833 | Dominant Indices | Arrays / Brute Force | Medium |
-| 47 | 3834 | Merge Adjacent Elements | Arrays / Stack Simulation | Medium |
-| 48 | 3835 | Count Subarrays With Cost ≤ K | Arrays / Sliding Window | Hard |
-| 49 | 1382 | Balance a Binary Search Tree | Trees / BST | Medium |
+| 44 | 3719 | Longest Balanced Subarray | Arrays / HashSet | Medium |
+| 45 | 3798 | Largest Even String | Strings / Greedy | Easy |
+| 46 | 3799 | Word Squares | Strings / Backtracking | Medium |
+| 47 | 3833 | Dominant Indices | Arrays / Brute Force | Medium |
+| 48 | 3834 | Merge Adjacent Elements | Arrays / Stack Simulation | Medium |
+| 49 | 3835 | Count Subarrays With Cost ≤ K | Arrays / Sliding Window | Hard |
+| 50 | 1382 | Balance a Binary Search Tree | Trees / BST | Medium |
+
 
 
 
