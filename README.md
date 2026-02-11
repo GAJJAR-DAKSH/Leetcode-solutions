@@ -35,35 +35,37 @@ The goal of this repository is to:
 | 20 | 121 | Best Time to Buy and Sell Stock | Arrays / Greedy | Easy |
 | 21 | 125 | Valid Palindrome | Strings / Two Pointers | Easy |
 | 22 | 128 | Longest Consecutive Sequence | Arrays / Sorting | Medium |
-| 23 | 169 | Majority Element | Arrays / Voting Algorithm | Easy |
-| 24 | 229 | Majority Element II | Arrays / Sorting | Medium |
-| 25 | 1653 | Minimum Deletions to Make String Balanced | Strings / Greedy | Medium |
-| 26 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy |
-| 27 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
-| 28 | 189 | Rotate Array | Arrays | Medium |
-| 29 | 268 | Missing Number | Arrays / Math | Easy |
-| 30 | 283 | Move Zeroes | Arrays | Easy |
-| 31 | 485 | Max Consecutive Ones | Arrays | Easy |
-| 32 | 560 | Subarray Sum Equals K | Arrays / Prefix Sum | Medium |
-| 33 | 704 | Binary Search | Arrays / Binary Search | Easy |
-| 34 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
-| 35 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
-| 36 | 2149 | Rearrange Array Elements by Sign | Arrays / Simulation | Medium |
-| 37 | 2965 | Find Missing and Repeated Values | Arrays / Counting | Easy |
-| 38 | 3010 | Minimum Cost to Make Array Equal | Arrays / Greedy | Easy |
-| 39 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
-| 40 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
-| 41 | 3379 | Construct Transformed Array | Arrays / Simulation | Easy |
-| 42 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Arrays / Sliding Window | Medium |
-| 43 | 3637 | Trionic Array | Arrays / Pattern Traversal | Easy |
-| 44 | 3719 | Longest Balanced Subarray | Arrays / HashSet | Medium |
-| 45 | 3721 | Longest Balanced Subarray II | Arrays / Segment Tree | Hard |
-| 46 | 3798 | Largest Even String | Strings / Greedy | Easy |
-| 47 | 3799 | Word Squares | Strings / Backtracking | Medium |
-| 48 | 3833 | Dominant Indices | Arrays / Brute Force | Medium |
-| 49 | 3834 | Merge Adjacent Elements | Arrays / Stack Simulation | Medium |
-| 50 | 3835 | Count Subarrays With Cost ≤ K | Arrays / Sliding Window | Hard |
-| 51 | 1382 | Balance a Binary Search Tree | Trees / BST | Medium |
+| 23 | 152 | Maximum Product Subarray | Arrays / Dynamic Programming | Medium |
+| 24 | 169 | Majority Element | Arrays / Voting Algorithm | Easy |
+| 25 | 229 | Majority Element II | Arrays / Sorting | Medium |
+| 26 | 1653 | Minimum Deletions to Make String Balanced | Strings / Greedy | Medium |
+| 27 | 1752 | Check if Array Is Sorted and Rotated | Arrays | Easy |
+| 28 | 1838 | Frequency of the Most Frequent Element | Arrays / Sliding Window | Medium |
+| 29 | 189 | Rotate Array | Arrays | Medium |
+| 30 | 268 | Missing Number | Arrays / Math | Easy |
+| 31 | 283 | Move Zeroes | Arrays | Easy |
+| 32 | 485 | Max Consecutive Ones | Arrays | Easy |
+| 33 | 560 | Subarray Sum Equals K | Arrays / Prefix Sum | Medium |
+| 34 | 704 | Binary Search | Arrays / Binary Search | Easy |
+| 35 | 865 | Smallest Subtree with all the Deepest Nodes | Trees / DFS | Medium |
+| 36 | 136 | Single Number | Arrays / Bit Manipulation | Easy |
+| 37 | 2149 | Rearrange Array Elements by Sign | Arrays / Simulation | Medium |
+| 38 | 2965 | Find Missing and Repeated Values | Arrays / Counting | Easy |
+| 39 | 3010 | Minimum Cost to Make Array Equal | Arrays / Greedy | Easy |
+| 40 | 3314 | Minimum Bitwise Array 1 | Arrays / Bit Manipulation | Medium |
+| 41 | 3315 | Minimum Bitwise Array 2 | Arrays / Bit Manipulation | Medium |
+| 42 | 3379 | Construct Transformed Array | Arrays / Simulation | Easy |
+| 43 | 3634 | Minimum Removals to Make Array K-Multiple Compatible | Arrays / Sliding Window | Medium |
+| 44 | 3637 | Trionic Array | Arrays / Pattern Traversal | Easy |
+| 45 | 3719 | Longest Balanced Subarray | Arrays / HashSet | Medium |
+| 46 | 3721 | Longest Balanced Subarray II | Arrays / Segment Tree | Hard |
+| 47 | 3798 | Largest Even String | Strings / Greedy | Easy |
+| 48 | 3799 | Word Squares | Strings / Backtracking | Medium |
+| 49 | 3833 | Dominant Indices | Arrays / Brute Force | Medium |
+| 50 | 3834 | Merge Adjacent Elements | Arrays / Stack Simulation | Medium |
+| 51 | 3835 | Count Subarrays With Cost ≤ K | Arrays / Sliding Window | Hard |
+| 52 | 1382 | Balance a Binary Search Tree | Trees / BST | Medium |
+
 
 
 
