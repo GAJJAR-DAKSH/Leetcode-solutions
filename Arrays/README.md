@@ -26,6 +26,7 @@ solved using optimized and interview-friendly approaches.
 | 118 | Pascal's Triangle | Easy |
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 128 | Longest Consecutive Sequence | Medium |
+| 152 | Maximum Product Subarray | Medium |
 | 169 | Majority Element | Easy |
 | 1752 | Check if Array Is Sorted and Rotated | Easy |
 | 189 | Rotate Array | Medium |
