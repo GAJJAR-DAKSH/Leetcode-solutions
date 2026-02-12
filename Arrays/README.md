@@ -27,6 +27,7 @@ solved using optimized and interview-friendly approaches.
 | 118 | Pascal's Triangle | Easy |
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 128 | Longest Consecutive Sequence | Medium |
+| 136 | Single Number | Easy |
 | 152 | Maximum Product Subarray | Medium |
 | 169 | Majority Element | Easy |
 | 1752 | Check if Array Is Sorted and Rotated | Easy |
@@ -38,7 +39,6 @@ solved using optimized and interview-friendly approaches.
 | 485 | Max Consecutive Ones | Easy |
 | 560 | Subarray Sum Equals K | Medium |
 | 704 | Binary Search | Easy |
-| 136 | Single Number | Easy |
 | 1838 | Frequency of the Most Frequent Element | Medium |
 | 2149 | Rearrange Array Elements by Sign | Medium |
 | 2965 | Find Missing and Repeated Values | Easy |
@@ -53,6 +53,7 @@ solved using optimized and interview-friendly approaches.
 | 3833 | Dominant Indices | Medium |
 | 3834 | Merge Adjacent Elements | Medium |
 | 3835 | Count Subarrays With Cost ≤ K | Hard |
+
 
 
 
