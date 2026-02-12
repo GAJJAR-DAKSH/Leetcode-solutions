@@ -31,6 +31,7 @@ solved using optimized and interview-friendly approaches.
 | 1752 | Check if Array Is Sorted and Rotated | Easy |
 | 189 | Rotate Array | Medium |
 | 229 | Majority Element II | Medium |
+| 238 | Product of Array Except Self | Medium |
 | 268 | Missing Number | Easy |
 | 283 | Move Zeroes | Easy |
 | 485 | Max Consecutive Ones | Easy |
@@ -51,6 +52,7 @@ solved using optimized and interview-friendly approaches.
 | 3833 | Dominant Indices | Medium |
 | 3834 | Merge Adjacent Elements | Medium |
 | 3835 | Count Subarrays With Cost ≤ K | Hard |
+
 
 
 
