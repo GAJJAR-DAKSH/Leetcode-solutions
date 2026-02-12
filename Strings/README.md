@@ -9,6 +9,7 @@ solved using optimized and interview-friendly approaches.
 
 | # | Problem Name | Difficulty |
 |---|-------------|------------|
+| 3 | Longest Substring Without Repeating Characters | Medium |
 | 125 | Valid Palindrome | Easy |
 | 3713 | Longest Balanced Substring | Medium |
 | 3798 | Largest Even String | Easy |
