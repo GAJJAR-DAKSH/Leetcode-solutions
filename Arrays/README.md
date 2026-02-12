@@ -19,6 +19,7 @@ solved using optimized and interview-friendly approaches.
 | 48 | Rotate Image | Medium |
 | 53 | Maximum Subarray | Medium |
 | 54 | Spiral Matrix | Medium |
+| 56 | Merge Intervals | Medium |
 | 73 | Set Matrix Zeroes | Medium |
 | 74 | Search a 2D Matrix | Medium |
 | 75 | Sort Colors | Medium |
